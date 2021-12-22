@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "dairymod",
+  "version": "${version}",
+
+  "name": "Dairy Items Mod",
+  "description": "This mod adds several dairy items to Minecraft for better usage of Milk and Cows",
+  "authors": [
+    "Bloc"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/dairy/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.blocmc.dairymod.DairyMod"
+    ]
+  },
+  "mixins": [
+    "dairymod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

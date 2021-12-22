@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "dairy:milk_bowl_item"
+        },
+        "B": {
+            "item": "minecraft:white_carpet"
+        },
+        "S": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "dairy:butter_item",
+        "count": 1
+    }
+}

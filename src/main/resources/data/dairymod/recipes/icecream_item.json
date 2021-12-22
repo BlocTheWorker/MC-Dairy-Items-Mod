@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snowball"
+        },
+        "B": {
+            "item": "dairy:milk_bowl_item"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "dairy:icecream_item",
+        "count": 1
+    }
+}

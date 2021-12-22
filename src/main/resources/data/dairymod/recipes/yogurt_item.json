@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "B",
+        "V"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "V": {
+            "item": "dairy:milk_bowl_item"
+        }
+    },
+    "result": {
+        "item": "dairy:yogurt_item",
+        "count": 1
+    }
+}

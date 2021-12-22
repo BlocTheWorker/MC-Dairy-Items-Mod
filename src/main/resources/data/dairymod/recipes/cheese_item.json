@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "dairy:milk_bowl_item"
+    },
+    "result": "dairy:cheese_item",
+    "experience": 0.1,
+    "cookingtime": 300
+}
