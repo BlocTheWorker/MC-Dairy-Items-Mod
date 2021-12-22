@@ -10,14 +10,14 @@
             "item": "minecraft:snowball"
         },
         "B": {
-            "item": "dairy:milk_bowl_item"
+            "item": "dairymod:milk_bowl_item"
         },
         "S": {
             "item": "minecraft:sugar"
         }
     },
     "result": {
-        "item": "dairy:icecream_item",
+        "item": "dairymod:icecream_item",
         "count": 1
     }
 }

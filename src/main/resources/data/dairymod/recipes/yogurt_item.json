@@ -13,11 +13,11 @@
             "item": "minecraft:bone_meal"
         },
         "V": {
-            "item": "dairy:milk_bowl_item"
+            "item": "dairymod:milk_bowl_item"
         }
     },
     "result": {
-        "item": "dairy:yogurt_item",
+        "item": "dairymod:yogurt_item",
         "count": 1
     }
 }

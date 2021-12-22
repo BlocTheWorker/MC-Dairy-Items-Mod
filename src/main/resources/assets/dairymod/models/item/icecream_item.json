@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-      "layer0": "dairy:item/milk_bowl_item"
+      "layer0": "dairymod:item/icecream_item"
     }
   }

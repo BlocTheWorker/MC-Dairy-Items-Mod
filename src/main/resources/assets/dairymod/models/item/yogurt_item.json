@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-      "layer0": "dairy:item/cheese_item"
+      "layer0": "dairymod:item/yogurt_item"
     }
   }

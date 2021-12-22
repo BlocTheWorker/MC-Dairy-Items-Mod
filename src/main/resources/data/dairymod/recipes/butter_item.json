@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "dairy:milk_bowl_item"
+            "item": "dairymod:milk_bowl_item"
         },
         "B": {
             "item": "minecraft:white_carpet"
@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "dairy:butter_item",
+        "item": "dairymod:butter_item",
         "count": 1
     }
 }
