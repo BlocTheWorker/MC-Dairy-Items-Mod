@@ -38,10 +38,10 @@ This mod adds several more edible items crafted with milk.
                     
 | Name  | Icon | Food Points | Saturation | Effect(s) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
- Cheese Piece  | ![cheese](src/main/resources/assets/dairy/textures/item/cheese_item.png?raw=true "Cheese") |  2 | 6 | None |
-| Yogurt  | ![Yogurt](src/main/resources/assets/dairy/textures/item/yogurt_item.png?raw=true "Yogurt") |  2 | 7 | Removes Poison Effect |
-| Ice Cream  | ![Ice Cream](src/main/resources/assets/dairy/textures/item/icecream_item.png?raw=true "Ice Cream") |  4 | 3 | Extinguishes Fire |
-| Butter  | ![Butter](src/main/resources/assets/dairy/textures/item/butter_item.png?raw=true "Butter") |  3 | 5 | Gives a movement speed bonus |
+ Cheese Piece  | ![cheese](src/main/resources/assets/dairymod/textures/item/cheese_item.png?raw=true "Cheese") |  2 | 6 | None |
+| Yogurt  | ![Yogurt](src/main/resources/assets/dairymod/textures/item/yogurt_item.png?raw=true "Yogurt") |  2 | 7 | Removes Poison Effect |
+| Ice Cream  | ![Ice Cream](src/main/resources/assets/dairymod/textures/item/icecream_item.png?raw=true "Ice Cream") |  4 | 3 | Extinguishes Fire |
+| Butter  | ![Butter](src/main/resources/assets/dairymod/textures/item/butter_item.png?raw=true "Butter") |  3 | 5 | Gives a movement speed bonus |
                 
 ----
 
@@ -50,7 +50,7 @@ I will explain certain crafting recipes in this section. I will also explain the
 
 
 #### Bowl of Milk 
-![Bowl of Milk](src/main/resources/assets/dairy/textures/item/milk_bowl_item.png?raw=true "Bowl of Milk")
+![Bowl of Milk](src/main/resources/assets/dairymod/textures/item/milk_bowl_item.png?raw=true "Bowl of Milk")
 For all the crafting recipes, you need a bowl of milk. You can obtain this simply by holding a Bowl in your hand and right clicking to a Cow or Sheep. This will fill your bowl with milk.
 
 #### Cheese Piece
