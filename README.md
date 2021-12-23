@@ -5,6 +5,11 @@
 <p align="center" style="color:red; font-weight:bold">Warning: This branch is for <b>Fabric</b> API. See forge branch for Forge API codebase</p>
 <div style="display: block" align="center">Minecraft Version: <p style="color: green"> <b>1.18.1<b/></p></div>
 
+### Mod Installation
+Simply download your version ( Fabric or Forge ) from [Releases](https://github.com/BlocTheWorker/MC-Dairy-Items-Mod/releases) and put it inside your mods folder.
+To access mods folder, Press the Windows Key (Start), Type in %appdata% and press enter. Open the .minecraft folder and then enter the mods folder. From here, just drag in the mod that you wish to add.
+
+
 **Contents**
 
 - [Dairy Items Mod for Minecraft](#dairy-items-mod-for-minecraft)
