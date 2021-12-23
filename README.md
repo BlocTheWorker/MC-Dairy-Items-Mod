@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/fGswrK5.png" />
 </p>
 
-<p align="center" style="color:red; font-weight:bold">Warning: This branch is for <b>Forge</b> API</p>
+<p align="center" style="color:red; font-weight:bold">Warning: This branch is for <b>Forge</b> API. See master branch for Fabric API codebase</p>
 <div style="display: block" align="center">Minecraft Version: <p style="color: green"> <b>1.18.1<b/></p></div>
 
 **Contents**
