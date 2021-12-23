@@ -2,6 +2,9 @@
   <img src="https://i.imgur.com/fGswrK5.png" />
 </p>
 
+<p align="center" style="color:red; font-weight:bold">Warning: This branch is for <b>Fabric</b> API</p>
+<div style="display: block" align="center">Minecraft Version: <p style="color: green"> <b>1.18.1<b/></p></div>
+
 **Contents**
 
 - [Dairy Items Mod for Minecraft](#dairy-items-mod-for-minecraft)
